@@ -34,5 +34,6 @@
 ---
 
 ## 🌎 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicsperes)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicsperes)
 [![Gmail](https://img.shields.io/badge/vinicsperes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicsperes@gmail.com)
