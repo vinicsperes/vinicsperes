@@ -3,7 +3,7 @@
 
 🫆 - Sou desenvolvedor de software Full-Stack com foco na criação de soluções modernas e alinhadas às necessidades reais de negócio. Atuo desde 2016, com sólida experiência em React, Node.js, TypeScript, Java e Python. Em minha última experiência, trabalhei ativamente com Java, Oracle e PostgreSQL, desenvolvendo e mantendo aplicações críticas em ambientes corporativos.
 
-🍏 - Tenho familiaridade com arquitetura de microsserviços e monolítica, desenvolvimento mobile e aplicações web escaláveis. Sou graduando em Sistemas de Informação e técnico em Desenvolvimento Web pelo Instituto Federal Catarinense.
+🍏 - Tenho familiaridade com arquitetura de microsserviços e monolítica, desenvolvimento mobile e aplicações web escaláveis. Sou graduando em Sistemas de Informação e técnico em Informática pelo Instituto Federal Catarinense.
 
 🏀 - Atualmente, estou desenvolvendo meu TCC com foco em análise de dados esportivos, aplicando técnicas de machine learning como K-Means para extração de padrões.
 
